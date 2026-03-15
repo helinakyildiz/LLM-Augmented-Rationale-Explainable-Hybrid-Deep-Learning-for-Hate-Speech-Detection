@@ -16,11 +16,8 @@ Günümüz sosyal medya ekosisteminde toksik içeriğin tespiti, platform güven
 ## 🚀 Teknik Detaylar
 - **Frameworks:** TensorFlow, Keras, Scikit-learn
 - **Dil:** Python
-- **Yöntem:** Word Embeddings & Recurrent Neural Networks (RNN)
-
-## ⚠️ Kod Paylaşımı Hakkında (Kod Erişimi)
-
-Bu proje şu an için **akademik bir makale yazım sürecindedir.** Çalışmanın özgünlüğünü ve yayın sürecini korumak adına, kaynak kodlar ve veri seti erişimi kısıtlanmıştır. 
+- **Yöntem:** Word Embeddings & Recurrent Neural
+- mı
 
 
 ## 📊 Öngörülen Sonuçlar
